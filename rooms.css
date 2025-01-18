@@ -33,3 +33,18 @@ td {
 #Rooms img {
     width: 100%;
 }
+
+button {
+    font-size: large;
+    font-weight: lighter;
+    border: 2px solid black;
+    background-color: #c2c5bb;
+}
+
+button:hover {
+    background-color: lightgray;
+}
+
+button:active {
+    background-color: darkgray;
+}

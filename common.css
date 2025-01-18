@@ -29,6 +29,33 @@ header .child3 {
     margin-right: 20px;
 }
 
-.navigation li {
+li {
     display: inline;
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    background-color: #c2c5bb;
+}
+
+
+.socials {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: inline-block;
+    height: 50%;
+}
+
+.socials div {
+    display: inline-block;
+    width: 25px;
+}
+
+.copyRight {
+    display: inline;
+    height: 50%;
+    width: 30%;
 }

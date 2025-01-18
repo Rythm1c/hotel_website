@@ -1,3 +1,17 @@
-h1 {
+h1,
+table {
     text-align: center;
+}
+
+table {
+    margin: auto;
+    width: 50%;
+}
+
+td {
+    width: 50%;
+}
+
+img {
+    width: 100%;
 }
